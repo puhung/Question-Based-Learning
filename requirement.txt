@@ -1,2 +1,7 @@
 openai
 requests
+langchain
+langchain-community
+langchain_core
+beautifulsoup4
+flask
